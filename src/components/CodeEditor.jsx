@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Button, HStack, Textarea, useToast } from "@chakra-ui/react";
+import { Box, Button, HStack, useToast } from "@chakra-ui/react";
 import { Controlled as CodeMirror } from "react-codemirror2";
 import "codemirror/mode/javascript/javascript";
 import "codemirror/mode/python/python";
